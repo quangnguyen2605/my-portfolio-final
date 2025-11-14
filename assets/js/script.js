@@ -60,11 +60,11 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Quang Nguyen";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            $("#favicon").attr("href", "https://i.postimg.cc/Bbf8VmrB/tai-xuong-1.jpg");
         }
         else {
             document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "assets/images/favhand.png");
+            $("#favicon").attr("href", "https://i.postimg.cc/Bbf8VmrB/tai-xuong-1.jpg");
         }
     });
 
