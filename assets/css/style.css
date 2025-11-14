@@ -1223,3 +1223,33 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+/* CHỈ ĐỔI MÀU CHỮ Ở PHẦN PROJECTS */
+
+/* Tiêu đề section projects */
+.work .heading {
+    color: #ffffff !important;
+}
+
+.work .heading span {
+    color: #ffffff !important;
+}
+
+/* Tiêu đề dự án */
+.work .box .content .tag h3 {
+    color: #ffffff !important;
+}
+
+/* Mô tả dự án */
+.work .box .content .desc p {
+    color: #ffffff !important;
+}
+
+/* Text trong nút button */
+.work .btn span {
+    color: #ffffff !important;
+}
+
+/* Nút View All */
+.work .viewall .btn span {
+    color: #ffffff !important;
+}
